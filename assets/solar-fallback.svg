@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#90bac0"/><stop offset="1" stop-color="#e4d49e"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#647d57"/><stop offset="1" stop-color="#283f36"/></linearGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#456f75"/><stop offset="1" stop-color="#132f3b"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v800H0z"/>
+  <circle cx="944" cy="170" r="73" fill="#f3d47b"/>
+  <path fill="#f2e7c5" d="m0 475 212-181 145 117 183-229 223 246 178-160 259 201v331H0z" opacity=".7"/>
+  <path fill="url(#hill)" d="m0 516 246-110 218 107 276-152 234 150 226-75v364H0z"/>
+  <path fill="#132f32" d="m0 619 1200-165v346H0z"/>
+  <g stroke="#b6d5d0" stroke-width="5" opacity=".78">
+    <path fill="url(#panel)" d="m82 493 540-119 104 178-570 91z"/>
+    <path fill="url(#panel)" d="m706 371 416 92 39 160-350-80z"/>
+    <path d="m267 454 56 158m156-194 70 163m158-201 83 171M159 474l610-117m-544 168 547-128M786 400l286 80m-256-3 304 85"/>
+  </g>
+  <path d="M0 717c180-47 345-32 520 8s425 46 680-35v110H0z" fill="#172f28" opacity=".8"/>
+</svg>
